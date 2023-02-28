@@ -1,0 +1,47 @@
+{
+    "pages": [
+        {
+            "path": "pages/index/index",
+            "style": {
+                "navigationBarTitleText": "uni-app功能汇总"
+            }
+        },
+        {
+            "path": "pages/iconfont/iconfont",
+            "style": {
+                "navigationBarTitleText": "iconfont"
+            }
+        },
+        {
+            "path": "pages/echarts/echarts",
+            "style": {
+                "navigationBarTitleText": "echarts"
+            }
+        },
+        {
+            "path": "pages/echarts/line",
+            "style": {
+                "navigationBarTitleText": "line"
+            }
+        },
+        {
+            "path": "pages/echarts/map",
+            "style": {
+                "navigationBarTitleText": "map"
+            }
+        },
+        {
+            "path": "pages/echarts/pie",
+            "style": {
+                "navigationBarTitleText": "pie"
+            }
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "uniIdRouter": {}
+}
